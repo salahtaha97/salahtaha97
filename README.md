@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salahtaha97
 - 👀 I’m interested in software devlepment
 - 🌱 I’m currently learning software devlepment
-- 💞️ I’m looking to collaborate on ASAC
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me by email(sal97taha@gmail.com)
 
 <!---
